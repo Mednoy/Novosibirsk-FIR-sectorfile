@@ -43,11 +43,11 @@ TeamSpeakVccs	Ts3DialogRight	2345
 TeamSpeakVccs	Ts3DialogBottom	746
 TeamSpeakVccs	Ts3G2APtt	1900544
 TeamSpeakVccs	Ts3G2GPtt	2752512
-TeamSpeakVccs	Ts3NickName	1728690
-TeamSpeakVccs	PlaybackMode	Windows Audio Session
-TeamSpeakVccs	PlaybackDevice	Speakers (Xbox Wireless Headset)
-TeamSpeakVccs	CaptureMode	Windows Audio Session
-TeamSpeakVccs	CaptureDevice	Headset (Xbox Wireless Headset)
+TeamSpeakVccs	Ts3NickName	YOUR CID
+TeamSpeakVccs	PlaybackMode	
+TeamSpeakVccs	PlaybackDevice	
+TeamSpeakVccs	CaptureMode
+TeamSpeakVccs	CaptureDevice
 Sounds	Sound0	\UNNT\Sounds\handoff_request.wav
 Sounds	Sound1	\UNNT\Sounds\handoff_accept.wav
 Sounds	Sound2	\UNNT\Sounds\conflict_alert.wav

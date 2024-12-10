@@ -76,7 +76,7 @@ RecentFiles	Recent6	\UNNT\ASR\GND\UNOO_GMC.asr
 RecentFiles	Recent7	\UNNT\ASR\GND\UNWW_GMC.asr
 RecentFiles	Recent8	\UNNT\ASR\GND\UNBG_GMC.asr
 Plugins	Plugin0	\UNNT\Plugins\AfvEuroScopeBridge.dll
-Plugins	Plugin1	\UNNT\Plugins\TopSky\TopSky.dll
+Plugins	Plugin1	\UNNT\Plugins\TopSky Ground\TopSky.dll
 Plugins	Plugin1Display1	Ground Radar display
 Plugins	Plugin2	\UNNT\Plugins\GRPlugin\GRplugin.dll
 Plugins	Plugin1Display0	Standard ES radar screen

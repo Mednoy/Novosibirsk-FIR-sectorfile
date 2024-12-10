@@ -61,14 +61,8 @@ Sounds	Sound15	\UNNT\Sounds\new_atis.wav
 Sounds	Sound16	\UNNT\Sounds\handoff_request.wav
 Sounds	Sound17	\UNNT\Sounds\pointout.wav
 Sounds	Sound18	\UNNT\Sounds\startup.wav
-RecentFiles	Recent1	\UNNT\ASR\GND\UNNT_GMC.asr
+RecentFiles	Recent1	\UNNT\ASR\UNNT\UNNT_GMC.asr
 RecentFiles	Recent2	\UNNT\ASR\CTR\Novosibirsk.asr
-RecentFiles	Recent3	\UNNT\ASR\GND\UNEE_GMC.asr
-RecentFiles	Recent4	\UNNT\ASR\GND\UNTT_GMC.asr
-RecentFiles	Recent5	\UNNT\ASR\GND\UNBB_GMC.asr
-RecentFiles	Recent6	\UNNT\ASR\GND\UNOO_GMC.asr
-RecentFiles	Recent7	\UNNT\ASR\GND\UNWW_GMC.asr
-RecentFiles	Recent8	\UNNT\ASR\GND\UNBG_GMC.asr
 Plugins	Plugin0	\UNNT\Plugins\AfvEuroScopeBridge.dll
 Plugins	Plugin1	\UNNT\Plugins\TopSky Ground\TopSky.dll
 Plugins	Plugin1Display1	Ground Radar display

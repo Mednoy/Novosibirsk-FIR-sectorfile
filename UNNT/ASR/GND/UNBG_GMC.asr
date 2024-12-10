@@ -1,0 +1,40 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:UNWW Gorno-Altyyansk_ground\02:freetext
+Free Text:UNWW Gorno-Altyyansk_ground\1:freetext
+Free Text:UNWW Gorno-Altyyansk_ground\1:freetext
+Free Text:UNWW Gorno-Altyyansk_ground\10:freetext
+Free Text:UNWW Gorno-Altyyansk_ground\1A:freetext
+Free Text:UNWW Gorno-Altyyansk_ground\2:freetext
+Free Text:UNWW Gorno-Altyyansk_ground\2:freetext
+Free Text:UNWW Gorno-Altyyansk_ground\20:freetext
+Free Text:UNWW Gorno-Altyyansk_ground\3:freetext
+Free Text:UNWW Gorno-Altyyansk_ground\4:freetext
+Free Text:UNWW Gorno-Altyyansk_ground\5:freetext
+Free Text:UNWW Gorno-Altyyansk_ground\6:freetext
+Free Text:UNWW Gorno-Altyyansk_ground\7:freetext
+Free Text:UNWW Gorno-Altyyansk_ground\8:freetext
+Free Text:UNWW Gorno-Altyyansk_ground\9:freetext
+Geo:UNBG Groundlayout UNBG:
+Regions:UNBG Ground Polygons:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:66.50000
+TAGFAMILY:ATM System Alpha 5
+WINDOWAREA:51.958368:85.803396:51.978066:85.865417
+PLUGIN:Ground Radar plugin:AirportElevation:967
+PLUGIN:Ground Radar plugin:AirportRadius:1.5
+PLUGIN:Ground Radar plugin:GroundMode:UNBG
+PLUGIN:TopSky plugin:NoDraw:1

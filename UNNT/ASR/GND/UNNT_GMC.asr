@@ -1,0 +1,23 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Artem\OneDrive\Рабочий стол\UNNT DEVELOPER 2\UNNT-Development-Package_20241105173703-241101-0002.sct
+SECTORTITLE:UNNT-Development-Package_20241105173703-241101-0002.sct
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:9.00000
+TAGFAMILY:ATM System Alpha 5
+WINDOWAREA:55.004416:82.615743:55.025429:82.682242
+PLUGIN:Ground Radar plugin:AirportElevation:368
+PLUGIN:Ground Radar plugin:AirportRadius:1.5
+PLUGIN:Ground Radar plugin:GroundMode:UNNT
+PLUGIN:TopSky plugin:HideMapData:TWR

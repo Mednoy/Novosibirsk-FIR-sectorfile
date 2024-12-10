@@ -1,1 +1,0 @@
-# Novosibirsk-FIR-sectorfile

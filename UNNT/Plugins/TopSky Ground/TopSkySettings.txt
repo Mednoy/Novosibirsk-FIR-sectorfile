@@ -46,13 +46,6 @@ APW_AlertSound=0
 APW_AlertSound_Filter=1
 APW_UseCFL=1
 
-Areas_NOTAM_Activation=1
-
-Window_QNHTL=1
-Window_NOTAM=1
-Window_QNHTL=3,0,890
-Window_NOTAM=3,0,1100
-
 
 //---------- Symbology Alpha ----------//
 Color_Active_Map_Type_1=120,0,0
@@ -265,14 +258,3 @@ Shortcut_Map_Xfr_Key=2,0x4D ; M
 
 Shortcut_Map_Target=1,UNNT\UNNT_VFR
 Shortcut_Map_Target=2,UNNT\SMAA1
-
-[_CTR]
-Window_CARD=3,1560,805
-Window_ATCmsg=1,1650,200
-Window_MsgIn=1,5,50
-Window_MsgOut=1,5,130
-
-[_APP]
-Window_ATCmsg=1,1650,200
-Window_MsgIn=1,5,50
-Window_MsgOut=1,5,130

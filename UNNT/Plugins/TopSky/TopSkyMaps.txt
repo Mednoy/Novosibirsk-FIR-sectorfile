@@ -11,6 +11,7 @@ OVERRIDE_SCT_MAP:STAR
 OVERRIDE_SCT_MAP:GEO
 OVERRIDE_SCT_MAP:REGIONS
 OVERRIDE_SCT_MAP:FREE TEXT
+
 ;---------------------------------------------------------------
 ;                             COLORS
 ;---------------------------------------------------------------

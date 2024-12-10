@@ -5,7 +5,7 @@ Settings	SettingsfileSEL	\UNNT\Settings\ExitList.txt
 Settings	SettingsfileDEP	\UNNT\Settings\DepartureList.txt
 Settings	SettingsfileARR	\UNNT\Settings\ArrivalList.txt
 Settings	SettingsfileVOICE	\UNNT\Settings\VoiceChannels.txt
-Settings	SettingsfileSYMBOLOGY	\UNNT\Settings\Symbology.txt
+Settings	SettingsfileSYMBOLOGY	\UNNT\Settings\SymbologyGround.txt
 Settings	SettingsfilePROFILE	\UNNT\Settings\LoginProfiles.txt
 Settings	SettingsfileTAGS	\UNNT\Settings\TAG.txt
 Settings	SettingsfilePLUGINS	\UNNT\Settings\Plugin.txt

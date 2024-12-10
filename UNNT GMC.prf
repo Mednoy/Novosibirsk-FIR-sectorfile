@@ -84,32 +84,9 @@ Plugins	Plugin3	\UNNT\Plugins\VSS.dll
 Plugins	Plugin4	\UNNT\Plugins\VCH.dll
 Plugins	Plugin5	\UNNT\Plugins\CCAMS.dll
 Plugins	Plugin6	\UNNT\Plugins\ESTimers\ESTimers.dll
-Settings	sector	\UNNT-Development-Package_20241105173703-241101-0002.sct
-LastSession	atis_freq4	118000
-LastSession	connecttype	0
-LastSession	callsign	UNNT_APP
-LastSession	realname	Artem
-LastSession	certificate	1728690
-LastSession	password	140909777
-LastSession	facility	5
-LastSession	rating	2
-LastSession	server	AUTOMATIC
-LastSession	tovatsim	1
-LastSession	scenario	C:\Users\Artem\OneDrive\            \VATSIM\Training\GND-TOWER_PRO.txt
-LastSession	range	150
-LastSession	proxyserver	localhost
-LastSession	simdatapublish	0
-LastSession	atis_freq3	118000
+Settings	sector	
 Plugins	Plugin2Display0	Ground Radar display
 Plugins	Plugin2Display1	Standard ES radar screen
 Plugins	Plugin6Display0	Standard ES radar screen
 Plugins	Plugin6Display1	Ground Radar display
 Plugins	Plugin7	\UNNT\Plugins\DiscordEuroscope\DiscordEuroscope.dll
-LastSession	atis2	Novosibirsk Approach
-LastSession	atis3	Monitor ATIS on 131.300
-LastSession	atis4	AIRAC 2410+ and NEW SCENERY are advised. Charts and sceneries on vatrus.info
-LastSession	atis_freq0	131300
-LastSession	atis_url0	https://vatis.ru/P-43C2DD3F?arrp=$atisairportA&arr=$arrrwy($atisairportA)&dep=$deprwy($atisairportA)&info=$atiscodeA
-LastSession	atis_letter0	82
-LastSession	atis_message0	TOLMACHOVO ATIS INFORMATION R 1130Z RUNWAY 16, 34 OUT OF OPERATION EXPECT ILS ZULU APPROACH RUNWAY 25 LESS THAN 10 PERCENT COVERED WITH COMPACTED SNOW 1 MILLIMETRES FRICTION COEFFICIENT DECIMAL 51 MEASURED BY SFT DEPARTURE RUNWAY 25 TRANSITION LEVEL 70 DEPARTURE FREQUENCY 127.500 WEATHER WIND 330 DEGREES 4 METRES PER SECOND VISIBILITY GREATER THAN 10 KILOMETRES LIGHT SNOW CLOUDS OVERCAST 570 METRES TEMPERATURE MINUS 12 DEW POINT MINUS 16 QNH 1036 NO SIGNIFICANT CHANGES EXPECT 1K ARRIVALS, TORA FROM TWY B 2810 METERS ACKNOWLEDGE ATIS INFORMATION R
-LastSession	atis_callsign0	UNNT_ATIS

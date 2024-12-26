@@ -1,7 +1,7 @@
 name: Bug report (production)
 description: Report found issue on production
 labels: ["bug", "pending triage"]
-assignees: ["banan1442"]
+assignees: ["banan1442,mednoy"]
 body:
   - type: markdown
     attributes:
@@ -21,7 +21,7 @@ body:
     id: version
     attributes:
       label: Sector version
-      description: Please include Radar version - you can find it in the footer
+      description: Please include sector version - you can find it in the footer
       placeholder: For example, 0.1.1
     validations:
       required: true
@@ -37,13 +37,6 @@ body:
     attributes:
       label: Reproduction steps
       description: Please describe how can we reproduce this issue - even if it's obvious. If your issue relates to some controller or specific user, include callsign(s) and cid(s). If it's hard to reproduce, a video would be nice to see.
-    validations:
-      required: true
-  - type: input
-    id: platform
-    attributes:
-      label: Platform
-      description: Specify your platform (windows, macos, ios, android), as well as browser and it's version
     validations:
       required: true
   - type: textarea

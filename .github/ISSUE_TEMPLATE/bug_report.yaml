@@ -1,6 +1,7 @@
 name: Bug report (EN)
 description: Report found issue
 labels: ["🚨 Bug"]
+tytle: ["🚨 Bug"]
 assignees: ["banan1442,mednoy"]
 body:
   - type: markdown

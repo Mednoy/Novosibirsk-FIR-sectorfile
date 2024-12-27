@@ -1,4 +1,4 @@
-name: Bug report (production)
+name: Bug report (EN)
 description: Report found issue on production
 labels: ["bug", "pending triage"]
 assignees: ["banan1442,mednoy"]

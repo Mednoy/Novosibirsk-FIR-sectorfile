@@ -1,6 +1,6 @@
 name: Bug Report (RU)
 description: Сообщите о найденной проблеме
-labels: ["BUG"]
+labels: ["🚨 Bug"]
 assignees: ["banan1442,mednoy"]
 body:
   - type: markdown

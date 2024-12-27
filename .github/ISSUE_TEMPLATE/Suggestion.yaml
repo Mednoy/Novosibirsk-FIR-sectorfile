@@ -1,7 +1,8 @@
-name: 💡Предложение по улучшению
+name: 💡 Предложение по улучшению
 description: Предложите улучшение или новую функцию
 labels: ["💡Question / Suggestion"]
 assignees: ["banan1442,mednoy"]
+title: "[💡] "
 body:
   - type: markdown
     attributes:

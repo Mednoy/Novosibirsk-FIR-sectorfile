@@ -1,5 +1,5 @@
 name: Bug report (EN)
-description: Report found issue on production
+description: Report found issue
 labels: ["bug", "pending triage"]
 assignees: ["banan1442,mednoy"]
 body:

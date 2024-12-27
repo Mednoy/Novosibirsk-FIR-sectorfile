@@ -1,6 +1,6 @@
 name: Bug report (EN)
 description: Report found issue
-labels: ["bug", "pending triage"]
+labels: ["BUG"]
 assignees: ["banan1442,mednoy"]
 body:
   - type: markdown

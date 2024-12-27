@@ -1,5 +1,5 @@
 name: Bug Report (RUS)
-description: Сообщите о найденной проблеме в продакшн-версии
+description: Сообщите о найденной проблеме
 labels: ["bug"]
 assignees: ["banan1442,mednoy"]
 body:

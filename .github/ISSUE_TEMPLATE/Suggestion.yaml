@@ -1,6 +1,6 @@
 name: 💡 Feature Suggestion (RU)
 description: Предложите улучшение или новую функцию
-labels: ["🔧 Enhancement"]
+labels: ["💡Question / Suggestion"]
 assignees: ["banan1442,mednoy"]
 body:
   - type: markdown

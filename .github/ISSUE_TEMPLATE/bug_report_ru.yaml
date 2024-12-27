@@ -1,48 +1,48 @@
-name: Bug report (RU)
-description: Report found issue on production
-labels: ["bug", "pending triage"]
+name: Bug Report (RUS)
+description: Сообщите о найденной проблеме в продакшн-версии
+labels: ["bug"]
 assignees: ["banan1442,mednoy"]
 body:
   - type: markdown
     attributes:
       value: |
-        Hello! Thank you for reporting an issue.
-       
-        Before reporting, please also check existing issues in this repository - you can filter them by "bug" label (also check closed ones).
+        Здравствуйте! Спасибо за сообщение об ошибке.
+        
+        Перед тем как сообщить об ошибке, пожалуйста, проверьте существующие задачи в этом репозитории — вы можете отфильтровать их по метке "bug" (проверьте также закрытые запросы).
         
   - type: input
     id: id
     attributes:
-      label: Ваш CID Vatsim
-      description: It is your Vatsim login. Required for us to contact you in Discord if you're there.
+      label: Ваш Vatsim CID
+      description: Это ваш логин Vatsim. Он нужен, чтобы мы могли связаться с вами в Discord, если вы там есть.
     validations:
       required: true
   - type: input
     id: version
     attributes:
       label: Версия сектора
-      description: Please include sector version - you can find it in the releases
-      placeholder: For example, 0.1.1
+      description: Укажите версию сектора — вы можете найти её в релизах.
+      placeholder: Например, 0.1.1
     validations:
       required: true
   - type: textarea
     id: what
     attributes:
-      label: Describe your issue
-      description: Please tell us what's happening, what is expected and actual result. Include some screenshots and videos if there are some!
+      label: Опишите вашу проблему
+      description: Пожалуйста, расскажите, что происходит, какой ожидаемый результат и фактический. Если есть скриншоты или видео, прикрепите их!
     validations:
       required: true
   - type: textarea
     id: how
     attributes:
-      label: Reproduction steps
-      description: Please describe how can we reproduce this issue - even if it's obvious. If your issue relates to some controller or specific user, include callsign(s) and cid(s). If it's hard to reproduce, a video would be nice to see.
+      label: Шаги воспроизведения
+      description: Опишите, как можно воспроизвести проблему, даже если это очевидно. Если ваша проблема связана с конкретным диспетчером или пользователем, укажите их позывные и CID. Если проблему сложно воспроизвести, прикрепите видео.
     validations:
       required: true
   - type: textarea
     id: additional
     attributes:
-      label: Additional info
-      description: Is there something additional we need to know? Please tell us!
+      label: Дополнительная информация
+      description: Есть ли что-то, что нам нужно знать дополнительно? Расскажите!
     validations:
       required: false

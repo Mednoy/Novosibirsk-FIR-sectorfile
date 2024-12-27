@@ -1,0 +1,55 @@
+name: Feature Suggestion (RU)
+description: Предложите улучшение или новую функцию
+labels: ["ENHANCEMENT"]
+assignees: ["banan1442,mednoy"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Здравствуйте! Спасибо за то, что делитесь своим предложением.
+        
+        Перед тем как отправить предложение, пожалуйста, проверьте существующие задачи в этом репозитории — возможно, ваша идея уже обсуждается. Вы можете отфильтровать их по метке "enhancement".
+        
+  - type: input
+    id: id
+    attributes:
+      label: Ваш Vatsim CID
+      description: Это ваш логин Vatsim. Он нужен, чтобы мы могли связаться с вами в Discord, если вы там есть.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Версия сектора
+      description: Укажите версию сектора — вы можете найти её в релизах.
+      placeholder: Например, 0.1.1
+    validations:
+      required: false
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Опишите ваше предложение
+      description: Пожалуйста, подробно расскажите, что именно вы предлагаете, почему это важно, и какую проблему это может решить. Если возможно, приложите примеры или пояснения.
+    validations:
+      required: true
+  - type: textarea
+    id: benefits
+    attributes:
+      label: Ожидаемые преимущества
+      description: Как ваше предложение улучшит работу или сделает её более удобной? Укажите конкретные примеры, если это возможно.
+    validations:
+      required: true
+  - type: textarea
+    id: implementation
+    attributes:
+      label: Возможная реализация
+      description: У вас есть идеи, как можно реализовать это предложение? Если да, пожалуйста, расскажите!
+    validations:
+      required: false
+  - type: textarea
+    id: additional
+    attributes:
+      label: Дополнительная информация
+      description: Есть ли что-то, что нам нужно знать дополнительно? Расскажите!
+    validations:
+      required: false

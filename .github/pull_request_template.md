@@ -1,21 +1,22 @@
-## 📝 Description of changes
-<!--- Describe what this pull request changes -->
-This PR introduces new features.
+## 📝 Описание изменений  
+<!--- Опишите, какие изменения вносит этот pull request -->  
 
-## 💡 Reason and motivation
-<!--- What are these changes needed? -->
-<!--- How would it be useful for your FIR/VACC -->
-- [ ] AIRAC update 🗺️
-- [ ] Maps and settings update (`plugins`) ⚙️
-- [ ] Plugins update 🧩
-- [ ] Settings/preferences update 🛠️
-- [ ] Other 🌍
 
-## 🤵 Approved contributior?
-<!--- We will only approve changes that is approved from staff -->
-<!--- Only select **one** of the following options - Do not select all. -->
-<!--- Use `x` to select: Ex. [x] - means selected. -->
+## 💡 Что изменилось  
+<!--- Зачем нужны эти изменения? -->  
+<!--- Чем это будет полезно для вашего FIR/VACC? -->  
 
-- [ ] I am a UNNT vACC AeroNav Department member 👨🏻‍💻
-- [ ] I am a Siberia AeroNav Department member ❄️
-- [ ] I am a Guest 👀 
+- [ ] Обновление AIRAC 🗺️  
+- [ ] Обновление карт и настроек (`plugins`) ⚙️  
+- [ ] Обновление плагинов 🧩  
+- [ ] Обновление настроек/предпочтений 🛠️  
+- [ ] Другое 🌍  
+
+## 🤵 Подтвержденный участник?  
+<!--- Мы одобрим только те изменения, которые утверждены персоналом -->  
+<!--- Выберите **один** из следующих вариантов - не выбирайте все. -->  
+<!--- Используйте `x` для выбора: Например, [x] - означает выбранный вариант. -->  
+
+- [ ] Я являюсь участником отдела AeroNav vACC UNNT 👨🏻‍💻  
+- [ ] Я являюсь участником отдела AeroNav Siberia ❄️  
+- [ ] Я гость 👀
